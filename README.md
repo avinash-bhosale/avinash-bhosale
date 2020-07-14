@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://avatars1.githubusercontent.com/u/51014718?s=460&u=41a2aa17a1b3c0755311f0ffef4cf13e2cd8f655&v=4">
 
 <!--
 **avinash-bhosale/avinash-bhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
